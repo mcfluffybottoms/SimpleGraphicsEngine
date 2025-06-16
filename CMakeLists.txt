@@ -32,5 +32,3 @@ target_link_libraries(engine_main PRIVATE
     Qt6::Gui
     Qt6::Widgets
 )
-
-target_compile_definitions(engine_main PRIVATE $<$<CONFIG:Debug>:QT_QML_DEBUG>)
