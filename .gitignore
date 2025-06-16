@@ -1,0 +1,8 @@
+/.cache
+/.qt
+/.vs
+/.vscode
+/build
+/cmake_install.cmake
+/resources
+/serialize
